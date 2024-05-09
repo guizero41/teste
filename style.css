@@ -1,9 +1,17 @@
-body {background-color: rgb(236, 236, 236);}
+body {background-color: rgb(136, 19, 204);}
 p {text-align: center;}
 h1 {text-align: center;}
-b {color: rgb(70, 68, 68);}
+b {color: rgb(48, 2, 90);}
+body{}
+
+header{background-color: rgb(134, 45, 218);}
+
+main{background-color: rgb(146, 71, 216);}
+
+footer{background-color: rgb(113, 30, 190);}
+
 
 #banner {width: 50%;}
 .container {text-align:center}
 
-.principal {background-color: rgb(216, 216, 216);}
+.principal {background-color: rgb(158, 63, 202);}
