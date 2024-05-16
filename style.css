@@ -1,18 +1,37 @@
-body {background-color: rgb(255, 255, 255);}
-p {text-align: center;}
-h1 {text-align: center;}
-b {color: rgb(2, 3, 90);}
-body
+body {
+    background-color: rgb(136, 19, 204);
+}
+p {
+    text-align: center;
+}
+h1 
+{text-align: center;
+}
+b {
+    color: rgb(48, 2, 90);
+}
+body{}
 
-header{background-color: rgb(1, 77, 128);}
+header
+{background-color: rgb(134, 45, 218);
+}
 
-main{background-color: rgb(255, 255, 255);}
+main{
+    background-color: rgb(146, 71, 216);
+}
 
-footer{background-color: rgb(255, 255, 255);}
+footer
+{background-color: rgb(113, 30, 190);
+}
 
 
-#banner {width: 70%;}
-.container {text-align:center}
+#banner 
+{width: 50%;
+}
+.container {
+    text-align:center
+}
 
-.principal {background-color: rgb(4, 78, 112);}
-
+.principal {
+    background-color: rgb(158, 63, 202);
+}
