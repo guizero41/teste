@@ -1,8 +1,12 @@
-header h1 img{
-    width: 10%;
-}
+header {background: #726b6bbb;
+font-size: 80px;}
 
-header {
-    backgroud-color: black
-}
+nav li{font-display: inline;
+margin: 0 0 0 15px;}
+
+nav a{text-transform: uppercase;
+color: #000000;
+font-weight: bold;
+font-size: 18px;
+text-decoration: none;}
 
