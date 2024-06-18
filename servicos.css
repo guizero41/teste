@@ -39,7 +39,7 @@ margin: 0 1.5%;
 padding: 30px 20px;
 box-sizing: border-box;}
 
-.produtos h2{font-size: 30px;
+.produtos h2{font-size: 31px;
 font-weight: bold;}
 
 .produto-descricao{font-size: 18px;
@@ -47,5 +47,9 @@ font-weight: bold;}
 
 }
 
-.produto-preco{font-size: 22px;
+.produto-preco{font-size: 23px;
 font-weight: bold;}
+
+.produtos img {
+    width: 250px;
+}
